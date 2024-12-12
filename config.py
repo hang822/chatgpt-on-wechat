@@ -119,6 +119,9 @@ available_setting = {
     "chat_time_module": False,  # 是否开启服务时间限制
     "chat_start_time": "00:00",  # 服务开始时间
     "chat_stop_time": "24:00",  # 服务结束时间
+    #coze扣子ai的API配置
+    "coze_api_key": "这里改成你的coze key",#coze的密钥
+    "coze_bot_id": "这里是你的botid",#coze的ID
     # 翻译api
     "translate": "baidu",  # 翻译api，支持baidu
     # baidu翻译api的配置
