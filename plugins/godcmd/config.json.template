@@ -1,4 +1,4 @@
 {
-  "password": "",
-  "admin_users": []
+  "password": "ttt",
+  "admin_users": ["ttt"]
 }
