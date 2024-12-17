@@ -1,7 +1,7 @@
 {
   "channel_type": "wx",
   "model": "glm-4",
-  "zhipu_ai_api_key": "把你一开始注册的智谱AI的API key，粘贴到这里",
+  "zhipu_ai_api_key": "d10943505e495486177b9b83e865d0cf.PWSaHRIxFJEVQVTF",
   "zhipu_ai_api_base": "https://open.bigmodel.cn/api/paas/v4",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
