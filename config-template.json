@@ -1,9 +1,8 @@
 {
   "channel_type": "wx",
-   "model": "coze",
-  "coze_api_base": "https://api.coze.cn/v3",
-  "coze_api_key": "pat_Gln4mJBP2dE972luV2OiegIiz76yNTTXAz6zSFsN4J33wZgBLekiOiGruOghsOBT",
-  "coze_bot_id": "7447098859438440458",
+  "model": "glm-4",
+  "zhipu_ai_api_key": "把你一开始注册的智谱AI的API key，粘贴到这里",
+  "zhipu_ai_api_base": "https://open.bigmodel.cn/api/paas/v4",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
   "text_to_voice": "openai",
@@ -18,8 +17,7 @@
     "@lion"
   ],
   "group_name_white_list": [
-    "卓工小窝",
-    "测试群"
+    "ALL_GROUP"
   ],
   "image_create_prefix": [
     "画"
@@ -33,6 +31,6 @@
   "temperature": 0.7,
   "subscribe_msg": "感谢您的关注！\n这里是AI智能助手，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。",
   "use_linkai": false,
-  "linkai_api_key": "",
-  "linkai_app_code": ""
+  "linkai_api_key": "Link_ahCxsZkjDVfoJHB8FusUXudShkYKjkPbrCFTjdj6c2",
+  "linkai_app_code": "bqepruP1"
 }
