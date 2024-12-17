@@ -25,6 +25,7 @@
   "speech_recognition": true,
   "group_speech_recognition": true,
   "voice_reply_voice": true,
+  "group_welcome_msg": "欢迎加入本群，欢迎语！！",
   "conversation_max_tokens": 2500,
   "expires_in_seconds": 3600,
   "character_desc": "你是基于大语言模型的AI智能助手，旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。",
