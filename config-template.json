@@ -2,7 +2,7 @@
   "channel_type": "wx",
    "model": "coze",
   "coze_api_base": "https://api.coze.cn/v1/bot/get_online_info",
-  "coze_api_key": "pat_qaj7EeVf7XrlLdb8NyZLfnaca9b2MHovoGL4klSXSxrdzQb5LIrwIc94SMiMulgx",
+  "coze_api_key": "pat_Gln4mJBP2dE972luV2OiegIiz76yNTTXAz6zSFsN4J33wZgBLekiOiGruOghsOBT",
   "coze_bot_id": "7447098859438440458",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
